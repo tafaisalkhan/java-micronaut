@@ -1,4 +1,4 @@
-package com.example.aop;
+package com.micronet.aop;
 
 import io.micronaut.aop.InterceptorBean;
 import io.micronaut.aop.MethodInterceptor;

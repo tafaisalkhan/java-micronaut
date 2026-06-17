@@ -1,4 +1,4 @@
-package com.example.aop;
+package com.micronet.aop;
 
 import java.lang.annotation.*;
 

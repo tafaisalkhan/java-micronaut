@@ -1,7 +1,7 @@
-package com.example.service;
+package com.micronet.service;
 
-import com.example.entity.Product;
-import com.example.repository.ProductRepository;
+import com.micronet.entity.Product;
+import com.micronet.repository.ProductRepository;
 import jakarta.inject.Singleton;
 
 import java.util.List;

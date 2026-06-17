@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.micronet.controller;
 
-import com.example.dto.LoginRequest;
-import com.example.dto.LoginResponse;
+import com.micronet.dto.LoginRequest;
+import com.micronet.dto.LoginResponse;
 import io.micronaut.http.HttpRequest;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.MediaType;
@@ -9,7 +9,6 @@ import io.micronaut.http.MutableHttpResponse;
 import io.micronaut.http.annotation.*;
 import io.micronaut.security.annotation.Secured;
 import io.micronaut.security.authentication.Authentication;
-import io.micronaut.security.authentication.AuthenticationResponse;
 import io.micronaut.security.authentication.Authenticator;
 import io.micronaut.security.authentication.UsernamePasswordCredentials;
 import io.micronaut.security.rules.SecurityRule;

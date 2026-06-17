@@ -1,4 +1,4 @@
-package com.example;
+package com.micronet;
 
 import io.micronaut.runtime.Micronaut;
 

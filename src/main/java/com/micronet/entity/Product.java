@@ -1,4 +1,4 @@
-package com.example.entity;
+package com.micronet.entity;
 
 import io.micronaut.data.annotation.*;
 import io.micronaut.serde.annotation.Serdeable;

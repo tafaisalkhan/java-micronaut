@@ -1,4 +1,4 @@
-package com.example.dto;
+package com.micronet.dto;
 
 import io.micronaut.serde.annotation.Serdeable;
 

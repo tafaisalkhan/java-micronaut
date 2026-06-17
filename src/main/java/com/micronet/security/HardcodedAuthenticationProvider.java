@@ -1,4 +1,4 @@
-package com.example.security;
+package com.micronet.security;
 
 import io.micronaut.http.HttpRequest;
 import io.micronaut.security.authentication.AuthenticationRequest;

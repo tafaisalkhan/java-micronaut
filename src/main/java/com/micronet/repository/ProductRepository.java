@@ -1,6 +1,6 @@
-package com.example.repository;
+package com.micronet.repository;
 
-import com.example.entity.Product;
+import com.micronet.entity.Product;
 import io.micronaut.data.jdbc.annotation.JdbcRepository;
 import io.micronaut.data.model.query.builder.sql.Dialect;
 import io.micronaut.data.repository.CrudRepository;

@@ -1,7 +1,7 @@
-package com.example.controller;
+package com.micronet.controller;
 
-import com.example.entity.Product;
-import com.example.service.ProductService;
+import com.micronet.entity.Product;
+import com.micronet.service.ProductService;
 import io.micronaut.http.HttpResponse;
 import io.micronaut.http.annotation.*;
 import io.micronaut.security.annotation.Secured;
